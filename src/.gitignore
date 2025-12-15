@@ -1,0 +1,12 @@
+# Node
+node_modules/
+
+# Python
+backend/venv/
+__pycache__/
+
+# Build (we will add manually to gh-pages)
+build/
+
+# Env
+.env
